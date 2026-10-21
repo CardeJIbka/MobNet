@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S#S",
+    "#X#",
+    " E "
+  ],
+  "key": {
+    "#": {
+      "item": "mobnet:compressed_web"
+    },
+    "E": {
+      "item": "minecraft:end_rod"
+    },
+    "S": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "X": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "id": "mobnet:nether_star_net",
+    "count": 1
+  }
+}

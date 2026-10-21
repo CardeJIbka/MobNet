@@ -1,0 +1,15 @@
+{
+  "tab.mobnet.mobnet_tab": "Сачки для мобов",
+  "item.mobnet.wooden_net": "Деревянный сачок",
+  "item.mobnet.golden_net": "Золотой сачок",
+  "item.mobnet.nether_star_net": "Сачок из Звезды Незера",
+  "item.mobnet.wooden_net_with": "Деревянный сачок с %s",
+  "item.mobnet.golden_net_with": "Золотой сачок с %s",
+  "item.mobnet.nether_star_net_with": "Сачок из Звезды Незера с %s",
+  "item.mobnet.wooden_net.tooltip": "Может ловить дружелюбных мобов",
+  "item.mobnet.golden_net.tooltip": "Может ловить дружелюбных и враждебных мобов",
+  "item.mobnet.nether_star_net.tooltip": "Может ловить любых мобов и некоторых боссов",
+  "item.mobnet.net.tooltip.filled": "Нажмите ПКМ по блоку, чтобы выпустить",
+  "block.mobnet.compressed_web": "Сжатая паутина",
+  "item.mobnet.compressed_web": "Сжатая паутина"
+}

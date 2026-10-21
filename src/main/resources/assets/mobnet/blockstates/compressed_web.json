@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mobnet:block/compressed_web"
+    }
+  }
+}
